@@ -1,0 +1,50 @@
+/* Header & Footer
+--------------------*/
+h1,h2 {
+    font-weight: normal;
+}
+header p {
+    color: #8D99AE;
+}
+header h1,h2 {
+    color: #EDF2F4;
+}
+header,footer {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+    background-color: #2B2D42;
+}
+
+/*body
+---------------------*/
+
+main {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #8D99AE;
+}
+
+body{
+
+    font-family: 'Helvetica', sans-serif;
+    margin-top: 0px;
+}
+
+a {
+    color: #EF233C;
+}
+
+h1 {
+    font-size: 80px;
+
+}
+
+h2 {
+    font-size: 40px;
+
+}
+/*footer*/
+footer p {
+    color: #8D99AE;
+}
